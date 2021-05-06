@@ -1,0 +1,52 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "isolatedModules": true,
+      "jsx": "react",
+      "lib": ["es6"],
+      "moduleResolution": "node",
+      "noEmit": true,
+      "strict": true,
+      "target": "esnext"
+    },
+    "exclude": [
+      "node_modules",
+      "babel.config.js",
+      "metro.config.js",
+      "jest.config.js"
+    ],
+    "baseUrl": "./src",
+    "paths": {
+      // "@assets": [
+      //   "assets"
+      // ],
+      "@src": ["./src/*"],
+      "@components": [
+        "./src/components/*"
+      ],
+      "@screens":["./src/screens/*"]
+      // "@config": [
+      //   "src/config"
+      // ],
+      // "@features": [
+      //   "src/features"
+      // ],
+      // "@helper": [
+      //   "src/helper"
+      // ],
+      // "@instances": [
+      //   "src/instances"
+      // ],
+      // "@navigation": [
+      //   "src/navigation"
+      // ],
+      // "@shared-state": [
+      //   "src/shared-state"
+      // ],
+      // "@values": [
+      //   "src/values"
+      // ],
+    },
+  }

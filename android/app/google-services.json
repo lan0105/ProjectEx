@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "845319407826",
+    "project_id": "projectex-1886e",
+    "storage_bucket": "projectex-1886e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845319407826:android:e66261f6ff45e4f3dcc50b",
+        "android_client_info": {
+          "package_name": "com.projectex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845319407826-49mo5mp58blnev8rpp2mcdlg3s4kmvgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPjGX-gILOnXjeEwiMmRQj4jb7PBpZ_5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845319407826-49mo5mp58blnev8rpp2mcdlg3s4kmvgk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845319407826-pih6ra3iu4f1adfddrrju8k8jdvsaihp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ProjectEx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
